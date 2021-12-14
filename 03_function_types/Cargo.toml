@@ -1,0 +1,9 @@
+[package]
+name = "e03_function_types"
+version = "0.1.0"
+authors = ["Jack Duvall <jrduvall@andrew.cmu.edu>"]
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
